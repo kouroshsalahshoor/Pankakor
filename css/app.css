@@ -25,3 +25,17 @@ body{
     padding: 0px 64px; 
     margin-bottom: 11px;
 }
+
+table, tr{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    width: 50%;
+}
+
+.image{
+    width: 100%;
+    object-fit: cover;
+    height: 500px;
+}
