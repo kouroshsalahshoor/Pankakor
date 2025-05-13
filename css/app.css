@@ -10,11 +10,18 @@ body{
 .container{
     width: 1280px;
     margin: 0px auto;
+    background-color: white;
+    padding: 0px;
 }
 
 #header-image{
     width: 100%;
     margin: 0px;
-    min-height: 500px;
+    height: 500px;
+    object-fit: cover;
 }
 
+.section{
+    padding: 0px 64px; 
+    margin-bottom: 11px;
+}
