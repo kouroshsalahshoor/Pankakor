@@ -1,0 +1,41 @@
+body{
+    width: 100%;
+    margin: 0px auto;
+    /* padding: 0px 64px 64px 64px; */
+    background: hsla(0, 100%, 32%, 0.3);
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+.container{
+    background-color: white;
+    padding: 0px;
+}
+
+#header-image{
+    width: 100%;
+    margin: 0px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.main{
+    padding: 64px;
+}
+/* .section{
+    padding: 32px 64px 0px 64px; 
+    margin-bottom: 11px;
+} */
+
+/* table, tr{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    width: 50%;
+} */
+
+.image{
+    width: 100%;
+    object-fit: cover;
+}
